@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T11:40:21.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="q1ymDgS6kHtk2aJ0XTe9" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T12:28:39.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="qIxSU3PuF-h6UsCMX3xv" version="17.1.3" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="1673" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1896" dy="1059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,20 +10,17 @@
         <mxCell id="677b7b8949515195-2" value="League of Legends Sion guide" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="60" width="500" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-3" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;rounded=0;labelBackgroundColor=none;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="95" width="220" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="677b7b8949515195-4" value="Runes" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="780" y="40" width="60" height="20" as="geometry" />
+          <mxGeometry x="773.75" y="75" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-5" value="Builds" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="860" y="40" width="60" height="20" as="geometry" />
+          <mxGeometry x="840" y="75" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-6" value="Matchups" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="930" y="40" width="60" height="20" as="geometry" />
+          <mxGeometry x="900" y="75" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-7" value="Abilities" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="1010" y="40" width="60" height="20" as="geometry" />
+          <mxGeometry x="980" y="75" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-8" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="230" width="200" height="590" as="geometry" />
@@ -41,7 +38,7 @@
           <mxGeometry x="250" y="230" width="580" height="400" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-25" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="230" width="230" height="400" as="geometry" />
+          <mxGeometry x="840" y="232.5" width="230" height="400" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-26" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="640" width="230" height="180" as="geometry" />
@@ -123,6 +120,9 @@
         </mxCell>
         <mxCell id="GVnStgSgErxso7UH10Lp-24" value="1. Use your q ability from bushes to hide them&lt;br&gt;2. Never group with your team if your r is on cooldown&lt;br&gt;3. Dont be scared of dying&lt;br&gt;4. Use your passive to set up waves to your advantage in laning phase&lt;br&gt;5. Sion is very good at proxying waves if you have a bad matchup" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="161.5" y="2280" width="757" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="GVnStgSgErxso7UH10Lp-26" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=96.882;fillColor2=#99ddff;strokeColor2=none;direction=north;fontFamily=Verdana;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="220" width="20" height="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
